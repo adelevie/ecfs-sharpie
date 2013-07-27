@@ -1,6 +1,6 @@
 # ecfs-sharpie
 
-This is an example application that uses the sharpie gem to create static HTML and JSON pages for FCC filings.
+This is an example application that uses the [sharpie](https://github.com/adelevie/sharpie) gem to create static HTML and JSON pages for FCC filings.
 
 ## Usage
 
